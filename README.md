@@ -1,2 +1,38 @@
-# hc-dashboard-widgets
-Custom WordPress Dashboard Widgets: KPIs, 14-day sales chart, quick links, and staff notes. WooCommerce-aware.
+# HC Dashboard Widgets
+
+Ένα WordPress plugin που προσθέτει custom dashboard widgets στο **Admin Panel**.  
+Ιδανικό για καταστήματα που χρησιμοποιούν **WooCommerce**, αλλά λειτουργεί και χωρίς αυτό.
+
+## ✨ Χαρακτηριστικά
+- **KPIs WooCommerce**: Εμφανίζει παραγγελίες και τζίρο (σήμερα & τελευταίες 7 ημέρες).  
+- **Γράφημα 14 ημερών**: Sparkline chart με τον ημερήσιο τζίρο.  
+- **Γρήγορα Links**: Προσαρμοσμένα shortcuts για σελίδες που χρειάζεστε συχνά.  
+- **Ανακοινώσεις Προσωπικού**: Σημειώσεις/ενημερώσεις ορατές σε όλους τους διαχειριστές.  
+- **WooCommerce-aware**: Αυτόματη εκκαθάριση cache όταν ενημερώνονται παραγγελίες.
+
+## 📦 Εγκατάσταση
+1. Κατέβασε το repository ή κάνε `git clone`.  
+2. Αντιγραφή του φακέλου στο `/wp-content/plugins/hc-dashboard-widgets/`.  
+3. Ενεργοποίησε το plugin από το **WordPress Admin → Plugins**.  
+
+## ⚙️ Ρυθμίσεις
+- Πήγαινε **Ρυθμίσεις → Dashboard Widgets**.  
+- Πρόσθεσε/αφαίρεσε *Γρήγορα Links*.  
+- Γράψε *Ανακοινώσεις προσωπικού* με WYSIWYG editor.  
+
+## 📊 Dashboard Widgets
+- **Πωλήσεις (WooCommerce KPIs)**  
+- **Τζίρος 14 ημερών (Chart)**  
+- **Γρήγορα Links**  
+- **Ανακοινώσεις Προσωπικού**
+
+## 🛠 Απαιτήσεις
+- WordPress 5.8+  
+- PHP 7.4+  
+- WooCommerce (προαιρετικά, για να εμφανιστούν τα στατιστικά)  
+
+## 👨‍💻 Συγγραφέας
+- **Δημήτρης Ηλιόπουλος**  
+- Άδεια: GPLv2 or later  
+
+---
